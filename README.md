@@ -1,13 +1,6 @@
-*************************************
-READ ME
-*************************************
+#Common algorithms implemented in Java.
 
-Author: David J. McPherson
-
-***********Description**************
-Common algorithms implemented in Java.
-
-********List of Algorithms**********
+#List of Algorithms
 1. Binary Search
 2. Linear Search
 3. Bubble Sort
